@@ -21,7 +21,7 @@ section.nyhedsartikel {
     text-align: justify;
     & article {
         p {
-            b
+            
         }
         blockquote {
             margin: 0px;
@@ -71,7 +71,7 @@ section.nyhedsartikel {
     text-align: center;
     & article {
         p {
-            b
+            
         }
         blockquote {
             margin: 0px;
@@ -95,7 +95,7 @@ section.nyhedsartikel {
     text-align: center;
     & article {
         p {
-            b
+            
         }
         blockquote {
             margin: 0px;
