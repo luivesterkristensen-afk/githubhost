@@ -64,7 +64,7 @@ section.nyhedsartikel {
 
 
 .bryllup {  
-    width: 60%;
+    width: 100%;
     max-width: 650px;
     margin: auto;
     font-family: Indie Flower, cursive;
@@ -83,6 +83,13 @@ section.nyhedsartikel {
 
 .mellemrum {
  margin: 200px; 
+}
+
+@media screen and (max-width: 700px) {
+    .mellemrum {
+     margin: 0px; 
+    }
+    
 }
 
 
